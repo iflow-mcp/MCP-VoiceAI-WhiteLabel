@@ -1,5 +1,5 @@
 {
-  "name": "vavicky-mcp-server",
+  "name": "@iflow-mcp/vavicky-mcp-server",
   "version": "1.0.0",
   "description": "MCP server for VoiceAI VAVicky AiAgency platform",
   "type": "module",
